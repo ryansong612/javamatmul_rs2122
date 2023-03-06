@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/javamatmul_rs2122.iml" filepath="$PROJECT_DIR$/.idea/javamatmul_rs2122.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrixmultiplicationlab/matrixmult.iml" filepath="$PROJECT_DIR$/matrixmultiplicationlab/matrixmult.iml" />
     </modules>
   </component>
 </project>

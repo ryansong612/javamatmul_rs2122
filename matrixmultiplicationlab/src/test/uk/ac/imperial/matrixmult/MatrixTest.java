@@ -15,9 +15,11 @@ public class MatrixTest {
         m.set(row, col, col * cols + row);
       }
     }
+    System.out.println(m.toString());
 
     for (int row = 0; row < rows; row++) {
       for (int col = 0; col < cols; col++) {
+        System.out.println("row: " + row + ", col: " + col);
         Assert.assertEquals(col * cols + row, m.get(row, col), 0.0001);
       }
     }
